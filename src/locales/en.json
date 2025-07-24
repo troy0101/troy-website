@@ -1,0 +1,19 @@
+{
+  "about": {
+    "title": "About Me",
+    "description": "Welcome to my personal website! Here you can learn more about me, read my thoughts, and see my favorite YouTube videos."
+  },
+  "thoughts": {
+    "title": "Thoughts",
+    "placeholder": "Share your thoughts here..."
+  },
+  "youtube": {
+    "title": "Favorite YouTube Videos",
+    "description": "A collection of my favorite YouTube videos."
+  },
+  "nav": {
+    "about": "About Me",
+    "thoughts": "Thoughts",
+    "youtube": "YouTube Videos"
+  }
+}
